@@ -1,0 +1,15 @@
+C:\Users\Docik\Desktop\C# Мои проекты\obj\Debug\net6.0\C# Мои проекты.csproj.AssemblyReference.cache
+C:\Users\Docik\Desktop\C# Мои проекты\obj\Debug\net6.0\C# Мои проекты.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docik\Desktop\C# Мои проекты\obj\Debug\net6.0\C# Мои проекты.AssemblyInfoInputs.cache
+C:\Users\Docik\Desktop\C# Мои проекты\obj\Debug\net6.0\C# Мои проекты.AssemblyInfo.cs
+C:\Users\Docik\Desktop\C# Мои проекты\obj\Debug\net6.0\C# Мои проекты.csproj.CoreCompileInputs.cache
+C:\Users\Docik\Desktop\C# Мои проекты\bin\Debug\net6.0\C# Мои проекты.exe
+C:\Users\Docik\Desktop\C# Мои проекты\bin\Debug\net6.0\C# Мои проекты.deps.json
+C:\Users\Docik\Desktop\C# Мои проекты\bin\Debug\net6.0\C# Мои проекты.runtimeconfig.json
+C:\Users\Docik\Desktop\C# Мои проекты\bin\Debug\net6.0\C# Мои проекты.dll
+C:\Users\Docik\Desktop\C# Мои проекты\bin\Debug\net6.0\ref\C# Мои проекты.dll
+C:\Users\Docik\Desktop\C# Мои проекты\bin\Debug\net6.0\C# Мои проекты.pdb
+C:\Users\Docik\Desktop\C# Мои проекты\obj\Debug\net6.0\C# Мои проекты.dll
+C:\Users\Docik\Desktop\C# Мои проекты\obj\Debug\net6.0\ref\C# Мои проекты.dll
+C:\Users\Docik\Desktop\C# Мои проекты\obj\Debug\net6.0\C# Мои проекты.pdb
+C:\Users\Docik\Desktop\C# Мои проекты\obj\Debug\net6.0\C# Мои проекты.genruntimeconfig.cache

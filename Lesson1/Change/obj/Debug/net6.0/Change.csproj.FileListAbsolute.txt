@@ -1,0 +1,15 @@
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\obj\Debug\net6.0\Change.csproj.AssemblyReference.cache
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\obj\Debug\net6.0\Change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\obj\Debug\net6.0\Change.AssemblyInfoInputs.cache
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\obj\Debug\net6.0\Change.AssemblyInfo.cs
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\obj\Debug\net6.0\Change.csproj.CoreCompileInputs.cache
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\bin\Debug\net6.0\Change.exe
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\bin\Debug\net6.0\Change.deps.json
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\bin\Debug\net6.0\Change.runtimeconfig.json
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\bin\Debug\net6.0\Change.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\bin\Debug\net6.0\ref\Change.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\bin\Debug\net6.0\Change.pdb
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\obj\Debug\net6.0\Change.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\obj\Debug\net6.0\ref\Change.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\obj\Debug\net6.0\Change.pdb
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Change\obj\Debug\net6.0\Change.genruntimeconfig.cache

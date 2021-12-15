@@ -1,0 +1,15 @@
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\bin\Debug\net6.0\Anketa.exe
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\bin\Debug\net6.0\Anketa.deps.json
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\bin\Debug\net6.0\Anketa.runtimeconfig.json
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\bin\Debug\net6.0\Anketa.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\bin\Debug\net6.0\ref\Anketa.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\bin\Debug\net6.0\Anketa.pdb
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\obj\Debug\net6.0\Anketa.csproj.AssemblyReference.cache
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\obj\Debug\net6.0\Anketa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\obj\Debug\net6.0\Anketa.AssemblyInfoInputs.cache
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\obj\Debug\net6.0\Anketa.AssemblyInfo.cs
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\obj\Debug\net6.0\Anketa.csproj.CoreCompileInputs.cache
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\obj\Debug\net6.0\Anketa.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\obj\Debug\net6.0\ref\Anketa.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\obj\Debug\net6.0\Anketa.pdb
+C:\Users\Docik\Desktop\C# Практические задания\Lesson1\Anketa\obj\Debug\net6.0\Anketa.genruntimeconfig.cache

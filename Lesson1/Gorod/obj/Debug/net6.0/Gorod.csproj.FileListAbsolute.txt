@@ -1,0 +1,15 @@
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\bin\Debug\net6.0\Gorod.exe
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\bin\Debug\net6.0\Gorod.deps.json
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\bin\Debug\net6.0\Gorod.runtimeconfig.json
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\bin\Debug\net6.0\Gorod.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\bin\Debug\net6.0\ref\Gorod.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\bin\Debug\net6.0\Gorod.pdb
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\obj\Debug\net6.0\Gorod.csproj.AssemblyReference.cache
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\obj\Debug\net6.0\Gorod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\obj\Debug\net6.0\Gorod.AssemblyInfoInputs.cache
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\obj\Debug\net6.0\Gorod.AssemblyInfo.cs
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\obj\Debug\net6.0\Gorod.csproj.CoreCompileInputs.cache
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\obj\Debug\net6.0\Gorod.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\obj\Debug\net6.0\ref\Gorod.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\obj\Debug\net6.0\Gorod.pdb
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Gorod\obj\Debug\net6.0\Gorod.genruntimeconfig.cache

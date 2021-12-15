@@ -1,0 +1,15 @@
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\bin\Debug\net6.0\Nto-n.exe
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\bin\Debug\net6.0\Nto-n.deps.json
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\bin\Debug\net6.0\Nto-n.runtimeconfig.json
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\bin\Debug\net6.0\Nto-n.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\bin\Debug\net6.0\ref\Nto-n.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\bin\Debug\net6.0\Nto-n.pdb
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\obj\Debug\net6.0\Nto-n.csproj.AssemblyReference.cache
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\obj\Debug\net6.0\Nto-n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\obj\Debug\net6.0\Nto-n.AssemblyInfoInputs.cache
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\obj\Debug\net6.0\Nto-n.AssemblyInfo.cs
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\obj\Debug\net6.0\Nto-n.csproj.CoreCompileInputs.cache
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\obj\Debug\net6.0\Nto-n.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\obj\Debug\net6.0\ref\Nto-n.dll
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\obj\Debug\net6.0\Nto-n.pdb
+C:\Users\Docik\Desktop\C# Практические задания\Lesson2\Nto-n\obj\Debug\net6.0\Nto-n.genruntimeconfig.cache

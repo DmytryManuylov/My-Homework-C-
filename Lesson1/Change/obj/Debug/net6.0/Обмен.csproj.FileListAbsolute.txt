@@ -1,0 +1,5 @@
+C:\Users\Docik\Desktop\C# Мои проекты\Обмен\obj\Debug\net6.0\Обмен.csproj.AssemblyReference.cache
+C:\Users\Docik\Desktop\C# Мои проекты\Обмен\obj\Debug\net6.0\Обмен.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docik\Desktop\C# Мои проекты\Обмен\obj\Debug\net6.0\Обмен.AssemblyInfoInputs.cache
+C:\Users\Docik\Desktop\C# Мои проекты\Обмен\obj\Debug\net6.0\Обмен.AssemblyInfo.cs
+C:\Users\Docik\Desktop\C# Мои проекты\Обмен\obj\Debug\net6.0\Обмен.csproj.CoreCompileInputs.cache
